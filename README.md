@@ -8,7 +8,7 @@ Trabajo Práctico para la materia **Organización de Datos** (95.58)
 
 | Nombre                         | GitHub                                   |
 |--------------------------------|------------------------------------------|
-| Sebastián Brizuela             |                                          |
+| Sebastián Brizuela             | [SebaB29](https://github.com/SebaB29)    |
 | Lucía Agha Zadeh Dehdeh        | [Lucia-azd](https://github.com/Lucia-azd)|
 | Juan Sebastián Del Río         | [S2JuanS2](https://github.com/S2JuanS2)  |
 
